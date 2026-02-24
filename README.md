@@ -7,7 +7,7 @@ using Transfer Learning method on any dataset, for an image classification task
 
 ## Inputs: 
 
-[1] train.zip: upload a zipped folder containing images to train the model
+[1] train.zip: upload a zipped folder containing images to train the model.
 After unzipping, the 'train' folder should have one directory for each class
 e.g. train/class1 (images for class1), train/class2 (images for class2) and so on..
 
